@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       # The submitted project does not include package-lock.json, so npm ci
       # would fail. npm install works with the existing package.json.
