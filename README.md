@@ -3,10 +3,15 @@
 ## Activity 1.1 + Activity 2.1 / 2.2
 
 **Project Title:** The Pangasinan Heritage Digital Showcase  
-**Student Name:** ______________________________  
+**Student Name:** Anne Costales  
 **Selected Framework:** React + Next.js 14 App Router  
 **Architecture:** Static Site Generation (SSG) / static export  
-**Deployment:** GitHub Pages
+**Deployment:** GitHub Pages  
+**Live Website:** https://annecostales83-beep.github.io/Pangasinan-Heritage-Act-2/  
+
+## Project Overview
+
+The Pangasinan Heritage Digital Showcase is a responsive, mobile-first website featuring selected natural, built, and cultural heritage sites in Pangasinan. Visitors can browse the heritage collection, read site details, and navigate between pages using the responsive navigation.
 
 ### Activity 1.1
 The project uses Atomic Design:
@@ -78,6 +83,17 @@ out/
 5. Push to `main`.
 6. The included workflow builds and deploys the site.
 7. Copy the generated GitHub Pages URL into the Activity 2 submission.
+
+### Deployment Verification
+
+The live website was checked after deployment:
+
+- The homepage loads successfully.
+- Heritage detail pages are statically generated and accessible.
+- Local images and SVG assets load correctly.
+- Navigation links work between the homepage and heritage detail pages.
+- The layout adapts to mobile and desktop screen sizes.
+- No major broken links or missing resources were found.
 
 ### Lighthouse
 Run Chrome DevTools → Lighthouse on the live GitHub Pages URL.
