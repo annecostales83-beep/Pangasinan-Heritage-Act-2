@@ -1,6 +1,6 @@
 # The Pangasinan Heritage Digital Showcase
 
-## Activity 1.1 + Activity 2.1 / 2.2
+## Activity 2
 
 **Project Title:** The Pangasinan Heritage Digital Showcase  
 **Student Name:** Anne Costales  
