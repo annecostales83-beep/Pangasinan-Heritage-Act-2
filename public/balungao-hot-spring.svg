@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Balungao Hot Spring illustration</title>
+  <desc id="desc">A stylized mountain landscape with warm spring pools in the foreground.</desc>
+  <rect width="1200" height="750" fill="#dff3fb"/>
+  <circle cx="1010" cy="125" r="64" fill="#f3c65c"/>
+  <path d="M0 430 230 245 390 390 585 175 810 405 960 295 1200 455V750H0Z" fill="#5e8f78"/>
+  <path d="M0 500 265 350 430 455 620 300 820 480 1010 375 1200 505V750H0Z" fill="#79a98d"/>
+  <path d="M0 570c160-55 270-30 390 6 125 38 240 52 370 5 128-46 263-47 440 15v154H0Z" fill="#ead8b5"/>
+  <ellipse cx="540" cy="620" rx="325" ry="86" fill="#58b8c8"/>
+  <ellipse cx="540" cy="611" rx="280" ry="55" fill="#8ad3dc"/>
+  <path d="M420 536c-24-38 32-49 9-89M540 526c-23-36 31-48 10-84M655 540c-26-41 34-52 10-91" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round" opacity=".72"/>
+  <path d="M72 520c58-74 91-106 143-145M1060 505c-30-62-54-104-93-146" fill="none" stroke="#3f765e" stroke-width="22" stroke-linecap="round"/>
+</svg>
